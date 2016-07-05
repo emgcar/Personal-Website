@@ -1,0 +1,51 @@
+#tabs li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid #000;
+    margin: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.title-bar {
+    background-color: lightblue;
+    height: 150px;
+}
+
+#selected-tab {
+    color: black;
+}
+
+body {
+    margin-bottom: 250px;
+    font-size: 20px;
+}
+
+/*p {
+    margin: auto;
+}*/
+
+/*id for one thing
+class for multiple things*/
+
+/*margin: top right bottom left*/
+
+#footer {
+    background-color: violet;
+    clear: both; /*right left or both*/
+}
+
+/*position: fixed
+makes it not move when scrolling*/
